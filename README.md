@@ -1,2 +1,2 @@
 # Android-Games
-3 fun little android games i created
+These are the scripts of 3 small and fun android games that I created
